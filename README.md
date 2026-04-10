@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shawarma_admin
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# restaurant-admin
+>>>>>>> c68c5c34a0882bc73cfd3cf75c815ae4034157f8
